@@ -148,7 +148,7 @@
   text-align: center;
 }
 .contact-info .cardimg {
-    width: 650px;
+    width:600px;
     height: 600px;
     max-width: 100%; /* responsive */
     position: absolute;
@@ -195,7 +195,7 @@
 /* Mobile */
 @media (max-width: 480px) {
   .page-link {
-    width: 26px;
+    width:24px;
     height: 26px;
     font-size: 0.8rem;
   }
